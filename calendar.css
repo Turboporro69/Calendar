@@ -1,4 +1,4 @@
-@font-face {
+    @font-face {
     font-family: Monocraft;
     font-weight: normal;
     src: url('Monocraft.ttf') format('truetype');
@@ -26,7 +26,7 @@ body {
     background: #fff;
     border-radius: 10px;
     box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
-    margin-bottom: 20px; /* Add margin-bottom to create space for the text */
+    margin-bottom: 20px;
 }
 
 .wrapper header {
